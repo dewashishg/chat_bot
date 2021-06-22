@@ -1,2 +1,3 @@
 x = 'Hello World!'
-print(x)
+y = 'How are you?'
+print(x, y)
